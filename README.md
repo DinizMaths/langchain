@@ -15,6 +15,9 @@ LangChain is a platform that provides a set of tools to help developers to creat
 Here is a list of the projects developed during the course. You can access the project by **clicking** on the link.
 
 ### [🚀 Custom ChatGPT App with LangChain from scratch](./projects/01_custom-chatgpt-app/README.md)
+
+This project develops a customized chatbot using LangChain and OpenAI's GPT-3.5-turbo, operating in Portuguese to provide targeted assistance and seamless interactions in specific scenarios. It leverages modern AI technologies to simulate realistic and relevant conversations.
+
 ### [🚀 RAG - Q&A App on your private documents (Pinecone and Chroma)](./projects/02_rag-q&a-app/README.md)
 ### [🚀 Building a Frontend for the Q&A App using Streamlit](./projects/03_frontend-q&a-app/README.md)
 ### [🚀 Summarizing with LangChain and OpenAI](./projects/04_summarizing/README.md)
