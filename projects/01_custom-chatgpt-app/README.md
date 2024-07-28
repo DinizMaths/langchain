@@ -14,6 +14,6 @@ The project aims to create a chatbot that can interact with users in Portuguese.
 
 ## 🧪 Running
 
-To run the project, you need to follow the steps on [running](../../README.md#running) section.
+To run the project, you need to follow the steps on [running](../../README.md#-running) section.
 
-```bash
+After, you can run the project using the following just running the cells in the Jupyter Notebook.
