@@ -16,4 +16,4 @@ The project aims to create a chatbot that can interact with users in Portuguese.
 
 To run the project, you need to follow the steps on [running](../../README.md#-running) section.
 
-After, you can run the project using the following just running the cells in the Jupyter Notebook.
+After, you can run the project using the following just running the cells in the [Jupyter Notebook](./project_custom-chatgpt-with-langchain-from-scratch.ipynb).
